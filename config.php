@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER', 'otmaa16c1i9nwrek.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306');
+define('DB_SERVER', 'otmaa16c1i9nwrek.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
 define('DB_USERNAME', 'wh6san4fkk2o66qp');
 define('DB_PASSWORD', 'mf43izps0pih74lz');
 define('DB_NAME', 'jpdb11jbga05zt8q');
